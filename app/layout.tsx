@@ -12,7 +12,12 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: "PDF-Summarizer | Neural Document Analysis",
-  description: "PDF Summarizing with AI-powered analysis"
+  description: "PDF Summarizing with AI-powered analysis",
+  icons: {
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
+  },
 }
 
 export default function RootLayout({

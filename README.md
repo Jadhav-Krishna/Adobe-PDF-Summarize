@@ -1,3 +1,5 @@
+![Logo](https://github.com/Jadhav-Krishna/Adobe-PDF-Summarize/blob/main/public/icon.png?raw=true)
+
 # PDF Document Processor
 
 A Next.js web application that processes PDF documents to extract headings and generate AI-powered summaries using Google's Gemini API.
